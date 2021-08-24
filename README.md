@@ -6,7 +6,7 @@ Este tutorial é destinado a desenvolvedores que são novos no React ou que dese
 Digamos que temos uma loja de ficção que vende alguns produtos como maçãs, bananas, livros, mesas. O trabalho é fazer um aplicativo para que os clientes possam pesquisar o que desejam comprar e ver os preços:
 
 # Crie um novo projeto React com este comando:
-npx create-react-app my_fiction_store --template typescript
+npx create-react-app (Nome do Projeto) --template typescript
 
 # Para visualizar o projeto clique no link abaixo
 npm rum build
